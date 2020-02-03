@@ -1,4 +1,4 @@
-# [Prototype] Business case for helping join up government services
+# [Prototype] Business case to help join up government services
 
 ## Strategic Case
 
