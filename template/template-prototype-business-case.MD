@@ -35,7 +35,7 @@ Here's an [example of an Options Framework Table](https://docs.google.com/docume
 
 When describing a challenge we're trying to overcome or an option for addressing it, reference the relevant decisions or where we learnt about it. Here's an example:
 
-People don't always feel like they are part of a team, so we're going to have a partner network of curry houses for newly-formed teams in the Civil Service (1a).
+> People don't always feel like they are part of a team, so we're going to have a partner network of curry houses for newly-formed teams in the Civil Service (1a).
 
 When writing what evidence informed the decision, link off to other documents for further reading. This would include user research findings or analysis of data.
 
