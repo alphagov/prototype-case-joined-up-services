@@ -6,12 +6,6 @@ A team at the Government Digital Service are prototyping a concise business case
 
 This is an early prototype. There will be mistakes, and inaccuracies. Please tell us. We hope by [making this open, we will make it better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
 
-We're updating three sections:
-
-1. Strategic case
-2. Economic case
-3. Key decisions that shaped this
-
 We hope by referencing key decisions, and the evidence behind them, that you'll see how we reached the conclusions. The evidence comes from ongoing user research interviews and data analysis, as well as previous Discoveries. Your feedback is important to take this from a prototype to an effective business case. You can give us feedback by raising an issue, or opening a pull request. You can also DM [@vosageroll](https://twitter.com/vosageroll) on Twitter.
 
-If you are publishing, use the [template for prototyping a business case](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/template-prototype-business-case.MD) as a guide for writing, then make a pull request on the prototype.
+If you are publishing, use the [template for prototyping a business case](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/template/template-prototype-business-case.MD) as a guide for writing, then make a pull request on the [prototype](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/prototype-business-case-joined-up-services.MD).
