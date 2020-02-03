@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A team at the Government Digital Service are prototyping a concise business case for joining up government services. We're publishing changes each week during our [Discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), which runs from February to March 2020. We will update this prototype, as we learn more about the cost of disjointed government services, their impact on users and government.
+A team at the Government Digital Service are prototyping a concise business case to help join up government services. We're publishing changes each week during our [Discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), which runs from February to March 2020. We will update this prototype, as we learn more about the cost of disjointed government services, their impact on users and government.
 
 This is an early prototype. There will be mistakes, and inaccuracies. Please tell us. We hope by [making this open, we will make it better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
 
