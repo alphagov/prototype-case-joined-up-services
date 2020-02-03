@@ -37,11 +37,13 @@ When describing a challenge we're trying to overcome or an option for addressing
 
 People don't always feel like they are part of a team, so we're going to have a partner network of curry houses for newly-formed teams in the Civil Service (1a).
 
+When writing what evidence informed the decision, link off to other documents for further reading. This would include user research findings or analysis of data.
+
 ### Sprint 0
 
 Decision 1: We decided to go for a team curry.
 
-Evidence 1a: “Teams that eat curry together are a sign of a great team” P2
+Evidence 1a: “Teams that eat curry together are a sign of a great team” [P2](https://www.morningfuture.com/en/article/2018/03/23/social-eating-team-building/260/)
 
 ### Sprint 1
 
