@@ -13,3 +13,5 @@ We're updating three sections:
 3. Key decisions that shaped this
 
 We hope by referencing key decisions, and the evidence behind them, that you'll see how we reached the conclusions. The evidence comes from ongoing user research interviews and data analysis, as well as previous Discoveries. Your feedback is important to take this from a prototype to an effective business case. You can give us feedback by raising an issue, or opening a pull request. You can also DM [@vosageroll](https://twitter.com/vosageroll) on Twitter.
+
+If you are publishing, use the [template for prototyping a business case](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/template-prototype-business-case.MD) as a guide for writing, then make a pull request on the prototype.
