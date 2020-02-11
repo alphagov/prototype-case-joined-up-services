@@ -107,4 +107,18 @@ Decision 4: We ran a session to raise our assumptions and what we already know a
 
 ### Sprint 3
 
+Decision 5: We developed a research plan that highlighted our approach to addressing our objectives and key results. This included a start to identifying who accross government could help us answer our key questions, and how we might associate costs to the challenges we hear about.
+
+Decision 6: We began to identify and contact people across government who might help us address our key questions, initially concentrating on internal GDS people who have experience in technology, data, policy and working accross government.
+
+Evidence 6a: We realised that we only have a short period of time to run our research and internal GDS people would be available at short notice. External people across government are being contacted now for interviews over the next few weeks. We're focusing on data, technology and policy because we acknowledge that's where our team blind-spots are. Our aim over the four weeks is to cover as many different stakeholder groups as possible, but also covering big departments with and without Policy Labs, as well as smaller departents.
+
+Decision 7: We developed a strategy for identifying costs and a plan to associate these against the challenges to joined up working we see in our research. We acknowledged that our questions wouldn't focus on identifying indicators of disjointedness, but more to uncover the narrative behind what challenges there are, what these look like, and potential ways that these may be overcome. 
+
+Evidence 7a: We think there is agreement already about that fact that government services are disjointed, therefore our efforts should be about telling that narrative and what impact they have on people, users, government and society. Costs can then be assigned to that state of play and impact narrative.
+
+Decision 8: We will put definitions inline in the prototype business case.
+
+Evidence 8a: We realise definitions are important to be able to be specific about what problems we are solving. If the inline definitions start to get in the way of readability, we will add them as an annex.
+
 ### Sprint 4
