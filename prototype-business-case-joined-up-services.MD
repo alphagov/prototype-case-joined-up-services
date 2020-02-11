@@ -79,4 +79,35 @@ Decision 7: We developed a strategy for identifying costs and a plan to associat
 
 Evidence 7a: We think there is agreement already about that fact that Government services are disjointed, therefore our efforts should be about telling that narrative and what impact they have on people, users, Government and society. Costs can then be assigned to that state of play and impact narrative.
 
+Decisions 7: Giving people the tools and standards will not be enough to change the way civil servants  work.
+
+Evidence 7a: Adoption of the standard is the hard bit. Some people do not want to adopt them or do not have the ability
+
+
+Decision 8: Legacy IT and operation are barriers to joining up services and is one of the hard problems to solve.
+
+Evidence 8a: Government has made the front end of services better but it is still a mess behind the scenes and we need to change the way we do things. That back end is legacy shaped by operations back in the days.
+
+Decision 9: Business approaches mental models on what is important for some organisations are different to another organisation even if they dealing with the same users.
+
+Evidence 9a: HMRC see a person who has income and pay tax and home office see someone crossing the border.
+
+Decision 10: Barrier for x-government collaboration is lack of trust in others data. 
+
+Evidence 10a: It might not be worth collecting someone else's data when you can’t trust it. The other department that needs it chooses to ask users again to make sure the data is correct and up to date. By standardising what data is used and how to keep it updated it can remove some of  these tech barriers and lead to collaboration. Standardise ways of doing things to make it easier to collaborate because sharing becomes easier
+
+Decision 11: Incentives people to collaborate.
+
+Evidence 11a: Currently we see it with treasure having a pot of money for cross boundaries projects and cabinet office strategic framework.  Other potentially ways could be by applying a standard to unify the way things are done.
+
+
+Decision 12: To avoid legacy system focus on the right set-up for maintaining a service and get senior leaders investing in maintaining a service  
+
+Evidence 12a: Teams move on and when a service breaks the knowledge they had is lost and it might be easier to rebuild the service rather than finding out how to fix it. 
+
+Decision 13: The team needs to create an appealing story to get senior decision makers engaged and ensure the idea lands well.
+
+Evidence 13a: Difficult to engage people talking about the route cause of data issue (metadata) when they just want to hear about the first step of what data to capture  rather than thinking ahead. Focus more on security risk than transformational barriers because it cause more engagement
+
+
 ### Sprint 4
