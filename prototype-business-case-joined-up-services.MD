@@ -33,7 +33,7 @@ Success factors might include:
 
 ### Benefits
 
-To be written.
+To be written. 
 
 ## Economic Case
 
@@ -68,5 +68,15 @@ Evidence 3a: We realised our research questions were around our specialism in di
 Decision 4: We ran a session to raise our assumptions and what we already know about joined up services. This helped us focus on what we don't already know.
 
 ### Sprint 3
+
+Decision 5: We developed a research plan that highlighted our approach to addressing our OKRs. This included a start to identifying who accross Government could help us answer our key questions, and how we might associate costs to the challenges we hear about.
+
+Decision 6: We began to identify and contact people across Government who might help us address our key questions, initially concentrating on internal GDS people who have experience in Tech, Data, Policy and working accross Government.
+
+Evidence 6a: We realised that we only have a short period of time to run our research and internal GDS people would be avaulable at short notice (external, x-gov people are being contacted now for interviews over the next few weeks). We're focussing on Data, TEch and Policy because we ackowledge that's where our team blind-spots are. Our aim over the 4 weeks is to cover as many different stakeholder groups as possible, but also covering big depts with and without Policy Labs, and smaller depts.
+
+Decision 7: We developed a strategy for identifying costs and a plan to associate these against the challenges to joined up working we see in our research. We acklowledged that our questions wouldn't focus on identifying indicators for disjoint, but more to uncover the narrative behind what challenges there are, what these look like (examples) potential ways that these may be overcome. 
+
+Evidence 7a: We think there is agreement already about that fact that Government services are disjointed, therefore our efforts should be about telling that narrative and what impact they have on people, users, Government and society. Costs can then be assigned to that state of play and impact narrative.
 
 ### Sprint 4
