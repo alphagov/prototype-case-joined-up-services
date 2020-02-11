@@ -12,24 +12,38 @@ This case for investment aims to compliment work on GOV.UK. We will make increme
 
 ### Strategic Objectives
 
-Government is mostly unable to work across organisational boundaries towards outcomes for users. As a result, services are disjointed:
+Services are disjointed when:
 
-- Users are unable to do the thing they need to do with government without repetition or getting stuck
-- Users cannot switch between channels without repetition
+- users have to repeat themselves when switching from one channel to another, or interacting across organisational boundaries 
+- users get stuck when trying to do the thing they need to do with government
+
+Some of the causes are:
+
+- government is mostly unable to work across organisational boundaries towards outcomes for users
+- limited ability to share data between technology platforms that support services
+
+Organisational boundaries exist both within organisations, and between organisations.
 
 Disjointed services cost both government and the public. People are less productive, less happy, and less likely to trust government.
 
-#### Cost of disjointed government
+#### Disjointed services caused by limited collaboration
 
 To solve these problems with services, government must be able to work work across organisational boundaries towards outcomes for users. We know they currently struggle to do this because:
 
 - Senior Civil Servants are accountable for spending money on a specific thing, in an effective way that allows their organisation solves a problem. When a problem spans an organisational boundary, the potential for blurred accountability prevents effective collaboration
 - when investments fail, and accountability is blurred, trust is eroded across organisational boundaries. This prevents Civil Servants from wanting to collaborate again
-- different organisations have different definitions of common data attributes, meaning they can't reuse another organisation's data
+
+#### Disjointed services caused by limited data sharing
+
+Organisations struggle to do this because:
+
+- different organisations have different definitions of common data attributes. This means they can't reuse another organisation's data
+- there are few incentives to share data. Treasury don't allow you to claim benefits reaped by another part of government, so it is hard to make a business case for sharing your data if it doesn't benefit your organisation. The risk of data breaches still sits with your organisation, while the benefits are claimed by another
+- different organisations have different availability and consistency requirements. When their requirements differ, it becomes harder to share data, and collecting the data from users again often becomes more preferable
 
 #### Cost of repetition
 
-We estimate that D% of questions government ask users are unnecessarily repeated, wasting on average E minutes per question. Users have to repeat themselves in different forms to different organisations do the thing they need to do. They also repeat themselves when switching from one channel to another to contact government. This costs government F and the public G in lost productivity. Some parts of services could be entirely removed if we already had previous answers from users. Running these services costs H per year.
+We estimate that D% of questions government ask users are unnecessarily repeated, wasting on average E minutes per question. Users have to repeat themselves when switching from one channel to another, or interacting across organisational boundaries. This costs government F and the public G in lost productivity. Some parts of services could be entirely removed if we already had previous answers from users. Running these services costs H per year.
 
 #### Cost of users getting stuck
 
