@@ -67,6 +67,57 @@ Evidence 3a: We realised our research questions were around our specialism in di
 
 Decision 4: We ran a session to raise our assumptions and what we already know about joined up services. This helped us focus on what we don't already know.
 
+00
+Decisions: Giving people the tools and standards will not be enough to change them
+
+Evidence: P2… Adoption of the standard is the hard bit, want to or not having the ability
+
+
+Barrier to collaboration
+01
+legacy IT and operation decision has affected the services. 
+
+Evidence: we have change the front end of services but it is still a mess behind the scene and we need to change the way we do things which is legacy shaped by operations back in the days.
+
+02
+Business approach mental model on what is important for some organisations are different to another organisation even if they dealing with the same users
+
+Evidence: HMRC see a person who has income and pay tax and home office see someone crossing the border
+
+03
+Lack of trust in other peoples work. Removing these tech barriers would lead to cross departmental services by standardise what data is used and how to keep it updated
+
+Evidence: It then might not be worth collecting someone else's data when you can’t trust it. You then ask users again.
+
+04
+Enablers for collaboration
+Incentives people to collaborate by forcing a standard or provide funding for the initiatives we want
+
+Evidence: treasure provide funding for cross boundaries projects
+
+05
+Focus on the right set-up for maintaining a service and get senior leaders to care about it. E.g, Live reviews
+
+Evidence: Teams move on and when a service breaks the knowledge they had is lost and it might be easier to rebuild the service rather than finding out how to fix it. 
+
+
+06
+You need to create an appealing storyline to get people engaged and land the idea
+
+Evidence: Difficult to engage people talking about the route cause of data issue when they just want to hear about the first step of capturing data rather than thinking ahead. Focus more on security risk than transformational barriers because it cause more engagement
+
+07-08
+Standardise ways of doing things to make it easier to collaborate because sharing becomes esier
+
+Evidence P2…
+
+00
+
+Create a movement with more like minded will create a snowball effect so more people join
+
+Evidence: 
+
+
 ### Sprint 3
 
 ### Sprint 4
