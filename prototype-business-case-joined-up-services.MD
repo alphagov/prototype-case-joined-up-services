@@ -12,13 +12,37 @@ This case for investment aims to compliment work on GOV.UK. We will make increme
 
 ### Strategic Objectives
 
-Services are disjointed when:
+Government is mostly unable to work across organisational boundaries towards outcomes for users. As a result, services are disjointed:
 
 - Users are unable to do the thing they need to do with government without repetition or getting stuck
 - Users cannot switch between channels without repetition
-- Government is unable to work across organisational boundaries towards outcomes for users
 
-These things cost money. The cost to users means people are less productive, less happy, and less likely to trust government. 
+Disjointed services cost both government and the public. People are less productive, less happy, and less likely to trust government.
+
+#### Cost of disjointed government
+
+To solve these problems with services, government must be able to work work across organisational boundaries towards outcomes for users. We know they currently struggle to do this because:
+
+- Senior Civil Servants are accountable for spending money on a specific thing, in an effective way that allows their organisation solves a problem. When a problem spans an organisational boundary, the potential for blurred accountability prevents effective collaboration
+- when investments fail, and accountability is blurred, trust is eroded across organisational boundaries. This prevents Civil Servants from wanting to collaborate again
+- different organisations have different definitions of common data attributes, meaning they can't reuse another organisation's data
+
+#### Cost of repetition
+
+We estimate that D% of questions government ask users are unnecessarily repeated, wasting on average E minutes per question. Users have to repeat themselves in different forms to different organisations do the thing they need to do. They also repeat themselves when switching from one channel to another to contact government. This costs government F and the public G in lost productivity. Some parts of services could be entirely removed if we already had previous answers from users. Running these services costs H per year.
+
+#### Cost of users getting stuck
+
+I% of support government provides is to assist users who have got stuck. Getting stuck includes:
+
+- not knowing where to go
+- going to the "wrong" place
+- not knowing what is being asked of you
+- not knowing what the next steps are
+- not knowing the status of an application
+- not getting the outcome you think you should get
+
+This costs government J per year. Loss of productivity and reduced happiness costs the public K per year.
 
 ### Critical Success Factors
 
