@@ -19,8 +19,8 @@ Services are disjointed when:
 
 Some of the causes are:
 
-- government is mostly unable to work across organisational boundaries towards outcomes for users
-- limited ability to share data between technology platforms that support services
+- government is mostly unable to work across organisational boundaries towards outcomes for users (11)
+- limited ability to share data between technology platforms that support services (9, 10)
 
 Organisational boundaries exist both within organisations, and between organisations.
 
@@ -30,15 +30,15 @@ Disjointed services cost both government and the public. People are less product
 
 To solve these problems with services, government must be able to work work across organisational boundaries towards outcomes for users. We know they currently struggle to do this because:
 
-- Senior Civil Servants are accountable for spending money on a specific thing, in an effective way that allows their organisation solves a problem. When a problem spans an organisational boundary, the potential for blurred accountability prevents effective collaboration
-- when investments fail, and accountability is blurred, trust is eroded across organisational boundaries. This prevents Civil Servants from wanting to collaborate again
+- Senior Civil Servants are accountable for spending money on a specific thing, in an effective way that allows their organisation solves a problem. When a problem spans an organisational boundary, the potential for blurred accountability prevents effective collaboration (11b)
+- when investments fail, and accountability is blurred, trust is eroded across organisational boundaries. This prevents Civil Servants from wanting to collaborate again (10b)
 
 #### Disjointed services caused by limited data sharing
 
 Organisations struggle to do this because:
 
-- different organisations have different definitions of common data attributes. This means they can't reuse another organisation's data
-- there are few incentives to share data. Treasury don't allow you to claim benefits reaped by another part of government, so it is hard to make a business case for sharing your data if it doesn't benefit your organisation. The risk of data breaches still sits with your organisation, while the benefits are claimed by another
+- different organisations have different definitions of common data attributes. This means they can't reuse another organisation's data (9a)
+- there are few incentives to share data. Treasury don't allow you to claim benefits reaped by another part of government, so it is hard to make a business case for sharing your data if it doesn't benefit your organisation. The risk of data breaches still sits with your organisation, while the benefits are claimed by another (11b)
 - different organisations have different availability and consistency requirements. When their requirements differ, it becomes harder to share data, and collecting the data from users again often becomes more preferable
 
 #### Cost of repetition
@@ -121,4 +121,18 @@ Decision 8: We will put definitions inline in the prototype business case.
 
 Evidence 8a: We realise definitions are important to be able to be specific about what problems we are solving. If the inline definitions start to get in the way of readability, we will add them as an annex.
 
-### Sprint 4
+Decision 9: We recognise that organisations have different mental models of what is important to them, even if they are dealing with the same users.
+
+Evidence 9a: "HMRC see a person who has income and pays tax. Home Office see someone crossing the border." P?
+
+Decision 10: Trust is necessary to use others data and collaborate.
+
+Evidence 10a: "It then might not be worth collecting someone else's data when you can’t trust it. You then ask users again. By standardising what data is used and how to keep it updated, it can remove some of these tech barriers and lead to collaboration. Standardise ways of doing things to make it easier to collaborate because sharing becomes easier." P?
+
+Evidence 10b: "Policy people have been burnt by delivery a couple of times. I think there were legacy systems involved. As they built the new service, things didn’t work as expected. Letters weren’t being sent when they should have. They created a comms headache." P?
+
+Decision 11: People need incentives to collaborate.
+
+Evidence 11a: Treasury have the Shared Outcomes Fund – a pot of money for cross-boundaries projects and Cabinet Office have the Strategic Framework. Other incentives could be through applying a standard to unify the way things are done.
+
+Evidence 11b: "Everything from Treasury looks at one project. You don’t get rewarded if your service helps a different service." P?
