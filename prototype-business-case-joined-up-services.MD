@@ -14,11 +14,49 @@ This case for investment aims to compliment work on GOV.UK. We will make increme
 
 Services are disjointed when:
 
-- Users are unable to do the thing they need to do with government without repetition or getting stuck
-- Users cannot switch between channels without repetition
-- Government is unable to work across organisational boundaries towards outcomes for users
+- users have to repeat themselves when switching from one channel to another, or interacting across organisational boundaries 
+- users get stuck when trying to do the thing they need to do with government
 
-These things cost money. The cost to users means people are less productive, less happy, and less likely to trust government. 
+Some of the causes are:
+
+- government is mostly unable to work across organisational boundaries towards outcomes for users (11)
+- limited ability to share data between technology platforms that support services (9, 10)
+
+Organisational boundaries exist both within organisations, and between organisations.
+
+Disjointed services cost both government and the public. People are less productive, less happy, and less likely to trust government.
+
+#### Disjointed services caused by limited collaboration
+
+To solve these problems with services, government must be able to work work across organisational boundaries towards outcomes for users. We know they currently struggle to do this because:
+
+- Senior Civil Servants are accountable for spending money on a specific thing, in an effective way that allows their organisation solves a problem. When a problem spans an organisational boundary, the potential for blurred accountability prevents effective collaboration (11b)
+- when investments fail, and accountability is blurred, trust is eroded across organisational boundaries. This prevents Civil Servants from wanting to collaborate again (10b)
+
+#### Disjointed services caused by limited data sharing
+
+Organisations struggle to do this because:
+
+- different organisations have different definitions of common data attributes. This means they can't reuse another organisation's data (9a)
+- there are few incentives to share data. Treasury don't allow you to claim benefits reaped by another part of government, so it is hard to make a business case for sharing your data if it doesn't benefit your organisation. The risk of data breaches still sits with your organisation, while the benefits are claimed by another (11b)
+- different organisations have different availability and consistency requirements. When their requirements differ, it becomes harder to share data, and collecting the data from users again often becomes more preferable
+
+#### Cost of repetition
+
+We estimate that D% of questions government ask users are unnecessarily repeated, wasting on average E minutes per question. Users have to repeat themselves when switching from one channel to another, or interacting across organisational boundaries. This costs government F and the public G in lost productivity. Some parts of services could be entirely removed if we already had previous answers from users. Running these services costs H per year.
+
+#### Cost of users getting stuck
+
+I% of support government provides is to assist users who have got stuck. Getting stuck includes:
+
+- not knowing where to go
+- going to the "wrong" place
+- not knowing what is being asked of you
+- not knowing what the next steps are
+- not knowing the status of an application
+- not getting the outcome you think you should get
+
+This costs government J per year. Loss of productivity and reduced happiness costs the public K per year.
 
 ### Critical Success Factors
 
@@ -69,14 +107,32 @@ Decision 4: We ran a session to raise our assumptions and what we already know a
 
 ### Sprint 3
 
-Decision 5: We developed a research plan that highlighted our approach to addressing our OKRs. This included a start to identifying who accross Government could help us answer our key questions, and how we might associate costs to the challenges we hear about.
+Decision 5: We developed a research plan that highlighted our approach to addressing our objectives and key results. This included a start to identifying who accross government could help us answer our key questions, and how we might associate costs to the challenges we hear about.
 
-Decision 6: We began to identify and contact people across Government who might help us address our key questions, initially concentrating on internal GDS people who have experience in Tech, Data, Policy and working accross Government.
+Decision 6: We began to identify and contact people across government who might help us address our key questions, initially concentrating on internal GDS people who have experience in technology, data, policy and working accross government.
 
-Evidence 6a: We realised that we only have a short period of time to run our research and internal GDS people would be avaulable at short notice (external, x-gov people are being contacted now for interviews over the next few weeks). We're focussing on Data, TEch and Policy because we ackowledge that's where our team blind-spots are. Our aim over the 4 weeks is to cover as many different stakeholder groups as possible, but also covering big depts with and without Policy Labs, and smaller depts.
+Evidence 6a: We realised that we only have a short period of time to run our research and internal GDS people would be available at short notice. External people across government are being contacted now for interviews over the next few weeks. We're focusing on data, technology and policy because we acknowledge that's where our team blind-spots are. Our aim over the four weeks is to cover as many different stakeholder groups as possible, but also covering big departments with and without Policy Labs, as well as smaller departents.
 
-Decision 7: We developed a strategy for identifying costs and a plan to associate these against the challenges to joined up working we see in our research. We acklowledged that our questions wouldn't focus on identifying indicators for disjoint, but more to uncover the narrative behind what challenges there are, what these look like (examples) potential ways that these may be overcome. 
+Decision 7: We developed a strategy for identifying costs and a plan to associate these against the challenges to joined up working we see in our research. We acknowledged that our questions wouldn't focus on identifying indicators of disjointedness, but more to uncover the narrative behind what challenges there are, what these look like, and potential ways that these may be overcome. 
 
-Evidence 7a: We think there is agreement already about that fact that Government services are disjointed, therefore our efforts should be about telling that narrative and what impact they have on people, users, Government and society. Costs can then be assigned to that state of play and impact narrative.
+Evidence 7a: We think there is agreement already about that fact that government services are disjointed, therefore our efforts should be about telling that narrative and what impact they have on people, users, government and society. Costs can then be assigned to that state of play and impact narrative.
 
-### Sprint 4
+Decision 8: We will put definitions inline in the prototype business case.
+
+Evidence 8a: We realise definitions are important to be able to be specific about what problems we are solving. If the inline definitions start to get in the way of readability, we will add them as an annex.
+
+Decision 9: We recognise that organisations have different mental models of what is important to them, even if they are dealing with the same users.
+
+Evidence 9a: "HMRC see a person who has income and pays tax. Home Office see someone crossing the border." P?
+
+Decision 10: Trust is necessary to use others data and collaborate.
+
+Evidence 10a: "It then might not be worth collecting someone else's data when you can’t trust it. You then ask users again. By standardising what data is used and how to keep it updated, it can remove some of these tech barriers and lead to collaboration. Standardise ways of doing things to make it easier to collaborate because sharing becomes easier." P?
+
+Evidence 10b: "Policy people have been burnt by delivery a couple of times. I think there were legacy systems involved. As they built the new service, things didn’t work as expected. Letters weren’t being sent when they should have. They created a comms headache." P?
+
+Decision 11: People need incentives to collaborate.
+
+Evidence 11a: Treasury have the Shared Outcomes Fund – a pot of money for cross-boundaries projects and Cabinet Office have the Strategic Framework. Other incentives could be through applying a standard to unify the way things are done.
+
+Evidence 11b: "Everything from Treasury looks at one project. You don’t get rewarded if your service helps a different service." P?
