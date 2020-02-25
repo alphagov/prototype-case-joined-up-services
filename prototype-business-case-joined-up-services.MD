@@ -2,11 +2,21 @@
 
 References in brackets are the [key decisions and evidence](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/key-decisions-and-evidence.MD) that supports this business case.
 
+## Executive Summary
+
+To support the 2030 Vision for the Digital, Data, and Technology (DDaT) function, Service Design and Technology Standards at the Government Digital Service (GDS) are seeking funding. We want to help solve the problem of users repeating steps along their journeys when interacting with government. This problem costs government F and the economy G in lost productivity. We will use the funding to:
+
+- improve existing products and services
+- resume paused experiments
+- start new experiments
+
+This is one part of a wider problem of disjointed services, which we also intend to seek further funding to solve. This business case will therefore expand in the coming months.
+
 ## Strategic Case
 
 ### Strategic Context
 
-Service Design and Technology Standards at the Government Digital Service (GDS) sets the bar for what good services look like, and offers support to guide people using technology to improve services. We're making an initial case for investment to help  deliver on the 2030 Vision for the Digital, Data, and Technology (DDaT) function.
+Service Design and Technology Standards at GDS sets the bar for what good services look like, and offers support to guide people using technology to improve services. We're making an initial case for investment to help  deliver on the 2030 Vision for the DDaT function.
 
 The vision says, "in 2030, government will be joined up, trusted and responsive to user needs."
 
