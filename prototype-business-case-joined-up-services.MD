@@ -26,6 +26,16 @@ Organisational boundaries exist both within organisations, and between organisat
 
 Disjointed services cost both government and the public. People are less productive, less happy, and less likely to trust government.
 
+#### Possible biggest impact to enable joint up service
+Policy makers produced the foundation for what the service will be and we believe if we can influence the policy of a service to be focused on end to end services we set-up designing and building service for success.
+
+- Policy stakeholders often hold the strongest veto power 
+- 80% of power is still in policy when it comes to design and delivering better services. Ministers reign, policy driven decisions and operation teams have agendas
+- Service teams often have no way to escalate to when it came to policy
+
+
+
+
 #### Disjointed services caused by limited collaboration
 
 To solve these problems with services, government must be able to work work across organisational boundaries towards outcomes for users. We know they currently struggle to do this because:
