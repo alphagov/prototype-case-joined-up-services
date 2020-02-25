@@ -21,10 +21,11 @@ Some of the causes are:
 
 - government is mostly unable to work across organisational boundaries towards outcomes for users (11)
 - limited ability to share data between technology platforms that support services (9, 10)
+- Organisational boundaries exist both within organisations, and between organisations.
 
-Organisational boundaries exist both within organisations, and between organisations.
+Why we care:
 
-Disjointed services cost both government and the public. People are less productive, less happy, and less likely to trust government.
+- Disjointed services cost both government and the public. People are less productive, less happy, and less likely to trust government.
 
 #### Disjointed services caused by limited collaboration
 
@@ -32,6 +33,10 @@ To solve these problems with services, government must be able to work work acro
 
 - Senior Civil Servants are accountable for spending money on a specific thing, in an effective way that allows their organisation solves a problem. When a problem spans an organisational boundary, the potential for blurred accountability prevents effective collaboration (11b)
 - when investments fail, and accountability is blurred, trust is eroded across organisational boundaries. This prevents Civil Servants from wanting to collaborate again (10b)
+-There is a lack of visibility and openness in different organisations regarding who does what and where they sit. 
+- Logistic problems getting in the way like not using same tech
+- Government structure standing in the way of collaboration policy teams under different director, operation, location and organisation. Align these organisation objectives are hard.
+
 
 #### Disjointed services caused by limited data sharing
 
@@ -40,6 +45,23 @@ Organisations struggle to do this because:
 - different organisations have different definitions of common data attributes. This means they can't reuse another organisation's data (9a)
 - there are few incentives to share data. Treasury don't allow you to claim benefits reaped by another part of government, so it is hard to make a business case for sharing your data if it doesn't benefit your organisation. The risk of data breaches still sits with your organisation, while the benefits are claimed by another (11b)
 - different organisations have different availability and consistency requirements. When their requirements differ, it becomes harder to share data, and collecting the data from users again often becomes more preferable
+
+#### Disjointed services caused by lack of feedback loop between policy, delivery and operation
+Waterfall delivery approach with lack of feedback loops. Start with intense policy making during which documentation and guidance are produced. Then the services are delivered. Then 3-5 years later there’s a big policy review - did it work? 
+Lack of feedback from users or caseworkers to designers and then policy makers. 
+Service teams were sometimes isolated from changes in policy, and this meant they were suddenly told what they were building would not be compliant. It was one way street.
+
+
+#### Disjointed services caused by need to align the needs of the users and government to make change
+While user needs are important to departments, it’s often not possible to make change happen unless there is a clear benefit to the business e.g. reducing the processing times, running the service more efficiently, reducing the number of calls to customers service etc.
+
+#### Disjointed services caused by changing ways of working is hard and there is lack of incentive to do so
+Constrained by time, ministerial direction and a lack of empowerment. 
+The problem is usually already defined and they come up with options.
+
+#### Disjointed services caused by IT delivery focused leadership
+
+#### Disjointed services caused by the government funding model are not set up for cross boundary collaboration and delivery of end to end services. 
 
 #### Cost of repetition
 
