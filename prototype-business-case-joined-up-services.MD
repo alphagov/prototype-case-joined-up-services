@@ -26,7 +26,9 @@ With other parts of GDS focusing on 'trusted' and 'responsive to user needs', we
 2. Users get stuck
 3. Users can't easily switch channel
 
-All three of these problems need addressing. To start, we're prototyping a business case to address "1. Users have to repeat steps", as users have less expectation to be able to seamlessly switch channel, and GDS is further away from solving the first problem than the second. After initial testing of this prototype, we will elaborate on the other problems.
+All three of these problems need addressing. To start, we're prototyping a business case to address "1. Users have to repeat steps", as users have less expectation to be able to seamlessly switch channel, and GDS is further away from solving the first problem than the second. After initial testing of this prototype, we will elaborate on the other problems (12b, 12c).
+
+GDS should help solve this common problem, as other organisations struggle to make the case for change when the benefits are perceived to be realised by other government organisations or the end users of services (11b, 14a).
 
 We're collaborating with GOV.UK to ensure we compliment their work. We will make incremental changes to this prototype business case, informed by user research and data analysis.
 
@@ -54,12 +56,15 @@ We estimate that D% of questions government ask users are unnecessarily repeated
 Organisations struggle to do this because:
 
 - different organisations have different definitions of common data attributes. This means they can't reuse another organisation's data (9a)
-- there are few incentives to share data. Treasury don't allow you to claim benefits reaped by another part of government, so it is hard to make a business case for sharing your data if it doesn't benefit your organisation. The risk of data breaches still sits with your organisation, while the benefits are claimed by another (11b)
-- different organisations have different availability and consistency requirements. When their requirements differ, it becomes harder to share data, and collecting the data from users again often becomes more preferable
+- there are few incentives to share data. Treasury don't allow you to claim benefits reaped by another part of government, so it is hard to make a business case for sharing your data if it doesn't benefit your organisation. The risk of data breaches still sits with your organisation, while the benefits are claimed by another (11b, 11c)
+- different organisations have different availability and consistency requirements. When their requirements differ, it becomes harder to share data, and collecting the data from users again often becomes more preferable (11d)
+- different organisations have different objectives, and it's hard to align them in order to collaborate (11e)
 
 #### Key challenges for policy designing schemes
 
-Policy teams often have to write options for Ministers over short periods of time. They do their best to inform their evidence base with the latest views from experts. They have limited time to work with delivery teams to understand the effectiveness of existing services at delivering policy intent. As a result, they tend to design new schemes that repeat steps already present in existing services (13a).
+Policy teams often have to write options for Ministers over short periods of time (2d). They do their best to inform their evidence base with the latest views from experts. They have limited time to work with delivery teams to understand the effectiveness of existing services at delivering policy intent. As a result, they tend to design new schemes that repeat steps already present in existing services (13a).
+
+Policy teams lay the foundations for services (2b). Once legislation is passed, repetition can get embedded into law. It is then much harder to remove repetition, as it becomes comparatively low priority for policy teams, but high priority for delivery teams (2c). It's therefore much more cost effective to influence policy early on.
 
 ### Critical Success Factors
 

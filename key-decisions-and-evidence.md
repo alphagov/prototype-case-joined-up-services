@@ -18,9 +18,15 @@ Evidence 1a: Services being trusted is a key outcome of GOV.UK and the Digital I
 
 ### Decision 2
 
-We decided to focus on the relationship between DDaT and Policy
+We decided to focus on the relationship between Digital, Data and Technology (DDaT) and Policy
 
-Evidence 2a: Most other teams at GDS are focused on supporting DDaT teams across government to deliver good services. We know from [previous research](https://docs.google.com/presentation/d/1kMBxElwcKGI9MLrg_vtTgT-kTDauAEYm-3qViZADauI/edit#slide=id.g10d42026b8_2_0) that most big decisions that shape services are made by policy teams. This seems like an opportunity to learn more about this.
+Evidence 2a: Most other teams at the Government Digital Service (GDS) are focused on supporting DDaT teams across government to deliver good services. We know from previous research that most [big decisions that shape services are made by policy teams]((https://docs.google.com/presentation/d/1kMBxElwcKGI9MLrg_vtTgT-kTDauAEYm-3qViZADauI/edit#slide=id.g10d42026b8_2_0)). This seems like an opportunity to learn more about this.
+
+Evidence 2b: 80% of power is still in policy when it comes to designing and delivering services. [Policy stakeholders often hold the strongest veto power](https://trello.com/b/zLjzJBwZ/q1-policy-delivery-ops-research).
+
+Evidence 2c: Service teams often have no way to [escalate an issue when it comes to policy](https://docs.google.com/document/d/1kw9EIGIQIhMMwOsQbEJFwh11i08oXPd_CtZGPrPbjeM/edit).
+
+Evidence 2d: [Ministers reign](https://docs.google.com/presentation/d/1qLnlurfk7u7M_P0MMguCACjxJaRbD7F5OLBlruVQO58/edit#slide=id.p), policy driven decisions and operation teams have agendas.
 
 ## Sprint 2
 
@@ -80,6 +86,12 @@ Evidence 11a: Treasury have the Shared Outcomes Fund – a pot of money for cros
 
 Evidence 11b: "Everything from Treasury looks at one project. You don’t get rewarded if your service helps a different service." P?
 
+Evidence 11c: Disjointed services caused by the [government funding model are not set up for cross boundary collaboration](https://trello.com/b/zLjzJBwZ/q1-policy-delivery-ops-research) and delivery of end to end services.
+
+Evidence 11d: Logistic problems getting in the way of collaboration such as [people not using the same tech](https://trello.com/b/zLjzJBwZ/q1-policy-delivery-ops-research).
+
+Evidence 11e: [Government structure stands in the way of collaboration](https://trello.com/b/zLjzJBwZ/q1-policy-delivery-ops-research). For example: policy teams under different directors, operations sitting separately, teams in different locations, and an end to end service spanning across organisations. Aligning these organisational objectives is hard.
+
 ## Sprint 4
 
 ### Decision 12
@@ -101,3 +113,9 @@ We think there are two key causes of users repeating themselves. Organisations a
 Evidence 10a: See above
 
 Evidence 13a: [Policy and design research](https://docs.google.com/presentation/d/1kWFiLE6QjkmBg4soH0QiyKwDUSIm4Zzu5mUq3ftCQAg/edit#slide=id.g10d42026b8_2_0)
+
+### Decision 14
+
+GDS are best placed to help solve the problem of users repeating steps along user journeys.
+
+Evidence 14a: While user needs are important to departments, [it’s often not possible to make change happen unless there is a clear benefit to the business](https://drive.google.com/a/digital.cabinet-office.gov.uk/file/d/1n0IYCICf5zhJGJP6Rk_bU3p9f-SxRsCF/view?usp=sharing) e.g. reducing the processing times, running the service more efficiently, reducing the number of calls to customers service etc.
