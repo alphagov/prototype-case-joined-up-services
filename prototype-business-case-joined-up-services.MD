@@ -1,6 +1,6 @@
 # [Prototype] Business case to help join up government services
 
-References in brackets are the [key decisions and evidence](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/key-decisions-and-evidence.MD) that supports this business case.
+References in brackets are the [key decisions and evidence](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/key-decisions-and-evidence.md) that supports this business case.
 
 ## Executive Summary
 
