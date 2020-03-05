@@ -15,9 +15,9 @@ This is one part of a wider problem of disjointed services, which we also intend
 ## Strategic Case
 
 ### Strategic Context
-
-#### What problem are we trying to solve?
-
+ 
+#### What problem are we trying to solve?
+ 
 Service Design and Technology Standards leads cross-government communities that set the bar for what good services look like. We also offer support and guidance to people using technology to improve services. We're making an initial case for investment to help deliver on the 2030 Vision for the DDaT function.
 
 The vision says, "in 2030, government will be joined up, trusted and responsive to user needs."
