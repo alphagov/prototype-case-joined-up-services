@@ -1,4 +1,4 @@
-# Template for prototyping a business case
+# Template for prototyping a case for change
 
 ## Strategic Case
 
@@ -15,7 +15,7 @@ Write this first, as we'll base the Economic Case on this.
 
 ### Critical Success Factors
 
-- What will need to observe in order to say that these challenges have been addressed? 
+- What will need to observe in order to say that these challenges have been addressed?
 - What are the key dependencies for success in this project?
 
 ### Benefits
@@ -47,5 +47,4 @@ Evidence 1a: “Teams that eat curry together are a sign of a great team” [P2]
 
 ### Sprint 1
 
-### Sprint 2 
-
+### Sprint 2
