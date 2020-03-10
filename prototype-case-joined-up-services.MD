@@ -1,6 +1,6 @@
-# [Prototype] Business case to help join up government services
+# [Prototype] Case for helping join up government services
 
-References in brackets are the [key decisions and evidence](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/key-decisions-and-evidence.md) that supports this business case.
+References in brackets are the [key decisions and evidence](https://github.com/alphagov/prototype-case-joined-up-services/blob/master/key-decisions-and-evidence.md) that supports this case.
 
 ## Executive Summary
 
@@ -10,14 +10,14 @@ The Government Digital Service (GDS) are setting the 2030 Vision for the Digital
 - resume paused investigations
 - start new investigations
 
-This is one part of a wider problem of disjointed services, which we also intend to seek further funding to solve. This business case will therefore expand in the coming months.
+This is one part of a wider problem of disjointed services, which we also intend to seek further funding to solve. This case will therefore expand in the coming months.
 
 ## Strategic Case
 
 ### Strategic Context
- 
+
 #### What problem are we trying to solve?
- 
+
 Service Design and Technology Standards leads cross-government communities that set the bar for what good services look like. We also offer support and guidance to people using technology to improve services. We're making an initial case for investment to help deliver on the 2030 Vision for the DDaT function.
 
 The vision says, "in 2030, government will be joined up, trusted and responsive to user needs."
@@ -28,7 +28,7 @@ We want to focus on helping government become more joined up. Currently, governm
 2. Users get stuck. Government questions aren't understood by users, forms confuse users, users don't know what to do next
 3. Users can't easily switch channel. Government makes users tell their story again when they switch from an online form to a call centre
 
-All three of these problems need addressing. To start, we're prototyping a business case to address "1. Users have to repeat steps", as our research shows that this problem is far from being solved. After initial testing of this prototype, we will elaborate on the other problems (12b, 12c).
+All three of these problems need addressing. To start, we're prototyping a case to address "1. Users have to repeat steps", as our research shows that this problem is far from being solved. After initial testing of this prototype, we will elaborate on the other problems (12b, 12c).
 
 #### Why is Service Design and Technology Standards trying to solve this problem?
 
@@ -36,7 +36,7 @@ Other organisations struggle to make the case for change when the benefits are p
 
 Although it may theoretically avoid repetition for users, it wouldn't be feasible or advisable for GDS centralise the digital services of other government organisations, under a different GOV.UK architecture. As a result, GDS must start solving this common problem for government sooner rather than later. We believe Service Design and Technology Standards must take a user-centred approach to solving this problem across government, putting external and internal users at the core of this work.
 
-We're collaborating with GOV.UK to ensure we compliment their work. We are making incremental changes to this prototype business case, informed by user research and data analysis.
+We're collaborating with GOV.UK to ensure we compliment their work. We are making incremental changes to this prototype case, informed by user research and data analysis.
 
 #### Benefits of solving this problem
 

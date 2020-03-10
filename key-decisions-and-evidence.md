@@ -1,4 +1,4 @@
-# Key decisions that shaped our prototype business case
+# Key decisions that shaped our prototype case
 
 ## Sprint 0
 
@@ -6,7 +6,7 @@
 
 ### Decision 0
 
-We decided to test prototyping a business case throughout our Discovery
+We decided to test prototyping a case for helping join up government services throughout our Discovery
 
 Evidence 0a: Previous discovery findings have not been followed through because of constrained funding
 
@@ -60,7 +60,7 @@ Evidence 7a: We think there is agreement already about that fact that government
 
 ### Decision 8
 
-We will put definitions inline in the prototype business case.
+We will put definitions inline in the prototype.
 
 Evidence 8a: We realise definitions are important to be able to be specific about what problems we are solving. If the inline definitions start to get in the way of readability, we will add them as an annex.
 
@@ -96,7 +96,7 @@ Evidence 11e: [Government structure stands in the way of collaboration](https://
 
 ### Decision 12
 
-We will focus this prototype business case on users repeating themselves, which is one aspect of 'joined up'.
+We will focus this prototype case on users repeating themselves, which is one aspect of 'joined up'.
 
 Evidence 12a: Our current team is only together until 27th March 2020. It's better to have tested a smaller prototype and learn something, than to get a third through building a larger prototype and learn nothing.
 
